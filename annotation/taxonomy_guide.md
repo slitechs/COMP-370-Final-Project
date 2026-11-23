@@ -1,13 +1,10 @@
 # Movie post topic taxonomy guide
 
-**Draft for the group to review before independent coding · 23 November 2026**
-
 ## Motivation
 
-The project asks what percentage of English-language Bluesky posts mentioning *You Can See Everything* on October 16–17, 2026 discuss each topic. This taxonomy groups posts by **what the writer focuses on**. It grew out of an AI-assisted open-coding pass over 200 posts drawn from *You Can See Everything*, *Whalefall*, *Sense and Sensibility*, and posts mentioning multiple films. Initial descriptions such as “father-son story,” “pacing,” “sold-out screening,” and “trailer marketing” were consolidated into six categories. The same guide applies to all three films. Film identity, positive or negative opinion, and number of likes are **not** topic codes.
+The project asks what percentage of English-language Bluesky posts mentioning *You Can See Everything* on October 16–17, 2026 discuss each topic. This taxonomy groups posts by **what the writer focuses on**. I first open-coded the 200 posts drawn from *You Can See Everything*, *Whalefall*, *Sense and Sensibility*, and posts mentioning multiple films. Initial descriptions were consolidated into six categories (these can be revised after annotation phase). The same guide applies to all three films. Film identity, positive or negative opinion, and number of likes are **not** topic codes.
 
-**Unit and evidence.** One Bluesky post receives one main topic. Use only its written text; do not open links or infer what an attached image shows. Read the whole post before coding. The examples below are identified by post ID from the 200-post open-coding sample so the team can check each decision. They are orientation examples; do not use them to measure independent coder agreement.
-
+**Unit and evidence.** One Bluesky post receives one main topic. Use only its written text; do not open links or infer what an attached image shows. Read the whole post before coding. The examples below are identified by post ID from the 200-post open-coding sample so the team can check each decision. 
 ## Topics
 
 ### REACT  Overall appraisal or felt response
