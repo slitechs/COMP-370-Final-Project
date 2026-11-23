@@ -1,9 +1,13 @@
 # Coding Session — Instructions for Sophia, Alexander, and Jerome
 
 **Coordinator:** Ella
+
 **Coders:** Sophia, Alexander, and Jerome
+
 **Dataset:** 742 unique Bluesky posts collected on October 16–17
+
 **Task:** Independently assign one topic to each post in your assigned workbook.
+
 
 Hi Sophia, Alexander, and Jerome!
 
