@@ -36,7 +36,7 @@ We'll use **version 1.0 of the guide** for this coding round. If we need to chan
 
 ## 2. Your individual coding task
 
-Each of you will receive a separate Excel workbook (`coder_N.xlsx`).
+Each of you will receive a separate Excel workbook (`coder_YOUR_NAME.xlsx`).
 
 1. Open your workbook and read the instructions on the first tab.
 2. Go to the **Final coding** tab.
