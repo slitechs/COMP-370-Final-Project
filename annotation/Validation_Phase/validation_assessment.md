@@ -52,3 +52,5 @@ We will keep the six topics and add these explicit rules to our taxonomy guide, 
 3. **Coverage versus interpretation:** A bare review link, review announcement, aggregate score, box-office result, or trailer promotion is CIRC. Classify the post's own substantive claim instead when it develops one; never follow the link to decide.
 4. **Humor:** Reserve HUMOR for a joke or parody that is the main message. Do not infer a joke from informal language alone.
 5. **Eligibility before topic:** A name-only post can be a viewing log or a release announcement if its own text supplies that context. Exclude an opaque link/hashtag, non-English text, an older adaptation, or a passing mention where the post's topic cannot be assigned from its text. Record exclusions independently of topic labels.
+
+[UPDATE]: new taxonomy guide in Validation Phase folder
